@@ -1,11 +1,11 @@
 {
-  "name": "com.egg.serialization",
-  "version": "1.0.0",
-  "displayName": "EGG Serialization",
-  "description": "Serialization Package.",
+  "name": "com.fried-eggs.serialization",
+  "version": "1.0.1",
+  "displayName": "Fried EGGS Serialization Package",
+  "description": "Fried EGGS Serialization Package.",
   "unity": "6000.2",
   "author": {
     "name": "Confsuin",
-    "url": "https://github.com/Confsuin/EGG-Serialization"
+    "url": "https://github.com/Fried-EGG-S/EGG-Serialization"
   }
 }
