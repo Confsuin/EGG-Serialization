@@ -1,5 +1,5 @@
 {
-  "name": "com.egg-packages.serialization",
+  "name": "com.egg.serialization",
   "version": "1.0.0",
   "displayName": "EGG Serialization",
   "description": "Serialization Package.",
